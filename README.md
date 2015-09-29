@@ -3,7 +3,7 @@
 This file was written by Badsector
 	(http://forum.kerbalspaceprogram.com/members/121674-Badsector)
 
-This makes some changes in the way RemoteTech works in Pathfinder
+This is a patch for the mod Antennarange and gives the GasLight the same stats of the Commutron 16
 
 The Pathfinder mod has been written by Angel-125
 	(http://forum.kerbalspaceprogram.com/members/109969-Angel-125)
